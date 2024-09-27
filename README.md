@@ -20,4 +20,4 @@ Expected output:
 
 FIXES:
 - if you incorrectly typed your webhook url, don't panic, just open your server folder, look for "webhook.url" and paste the correct one, then save
-- if you have any errors, message me on discord at @twix#6034
+- if you have any errors, message me on discord at .ihyd
